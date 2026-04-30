@@ -1,0 +1,12 @@
+# Python (for when scripts are added)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
