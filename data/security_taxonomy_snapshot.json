@@ -1,0 +1,258 @@
+{
+  "component_suffixes": [
+    "Activity",
+    "Service",
+    "Receiver",
+    "Provider",
+    "Fragment",
+    "WebViewClient",
+    "ChromeClient"
+  ],
+  "lifecycle_methods": [
+    "attachInfo",
+    "call",
+    "delete",
+    "evaluateJavascript",
+    "insert",
+    "loadUrl",
+    "onActivityResult",
+    "onBind",
+    "onCreate",
+    "onDestroy",
+    "onHandleIntent",
+    "onNewIntent",
+    "onPause",
+    "onRebind",
+    "onReceive",
+    "onRequestPermissionsResult",
+    "onResume",
+    "onStart",
+    "onStartCommand",
+    "onStop",
+    "onUnbind",
+    "query",
+    "shouldInterceptRequest",
+    "shouldOverrideUrlLoading",
+    "update"
+  ],
+  "runtime_library_prefixes": [
+    "android.",
+    "androidx.",
+    "com.android.",
+    "com.google.android.",
+    "java.",
+    "javax.",
+    "jdk.",
+    "sun.",
+    "dalvik.",
+    "libcore.",
+    "org.apache.",
+    "org.json.",
+    "kotlin.",
+    "kotlinx.",
+    "j$."
+  ],
+  "security_method_names": [
+    "bindService",
+    "configureTlsExtensions",
+    "decrypt",
+    "delete",
+    "doFinal",
+    "encrypt",
+    "evaluateJavascript",
+    "exec",
+    "forName",
+    "getDeviceId",
+    "getImei",
+    "getLastKnownLocation",
+    "getLatitude",
+    "getLine1Number",
+    "getLongitude",
+    "getMeid",
+    "getSubscriberId",
+    "insert",
+    "loadClass",
+    "loadUrl",
+    "openCamera",
+    "query",
+    "registerReceiver",
+    "requestLocationUpdates",
+    "sendBroadcast",
+    "sendMultipartTextMessage",
+    "sendTextMessage",
+    "setJavaScriptEnabled",
+    "shouldInterceptRequest",
+    "startForegroundService",
+    "startRecording",
+    "startService",
+    "update",
+    "verify"
+  ],
+  "security_prefix_tags": [
+    {
+      "prefix": "android.telephony.",
+      "tag": "telephony"
+    },
+    {
+      "prefix": "android.location.",
+      "tag": "location"
+    },
+    {
+      "prefix": "android.accounts.",
+      "tag": "accounts"
+    },
+    {
+      "prefix": "android.webkit.",
+      "tag": "webview"
+    },
+    {
+      "prefix": "android.content.ContentResolver",
+      "tag": "content_resolver"
+    },
+    {
+      "prefix": "android.provider.",
+      "tag": "content_provider"
+    },
+    {
+      "prefix": "android.hardware.Camera",
+      "tag": "camera"
+    },
+    {
+      "prefix": "android.hardware.camera2.",
+      "tag": "camera"
+    },
+    {
+      "prefix": "android.media.AudioRecord",
+      "tag": "microphone"
+    },
+    {
+      "prefix": "android.media.MediaRecorder",
+      "tag": "microphone"
+    },
+    {
+      "prefix": "javax.net.ssl.",
+      "tag": "tls"
+    },
+    {
+      "prefix": "java.net.",
+      "tag": "network"
+    },
+    {
+      "prefix": "okhttp3.",
+      "tag": "network"
+    },
+    {
+      "prefix": "okio.",
+      "tag": "network"
+    },
+    {
+      "prefix": "java.lang.reflect.",
+      "tag": "reflection"
+    },
+    {
+      "prefix": "java.lang.Runtime",
+      "tag": "reflection"
+    },
+    {
+      "prefix": "java.lang.Class",
+      "tag": "reflection"
+    },
+    {
+      "prefix": "dalvik.system.",
+      "tag": "dynamic_loading"
+    },
+    {
+      "prefix": "javax.crypto.",
+      "tag": "crypto"
+    },
+    {
+      "prefix": "java.security.",
+      "tag": "crypto"
+    },
+    {
+      "prefix": "android.content.Intent",
+      "tag": "ipc"
+    },
+    {
+      "prefix": "android.content.Context",
+      "tag": "ipc"
+    },
+    {
+      "prefix": "android.app.Activity",
+      "tag": "component"
+    },
+    {
+      "prefix": "android.app.Service",
+      "tag": "component"
+    },
+    {
+      "prefix": "android.content.BroadcastReceiver",
+      "tag": "component"
+    },
+    {
+      "prefix": "android.content.ContentProvider",
+      "tag": "component"
+    },
+    {
+      "prefix": "com.facebook.react.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "com.swmansion.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "com.reactnativecommunity.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "com.learnium.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "app.notifee.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "com.baseflow.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "com.getcapacitor.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "io.flutter.",
+      "tag": "sdk_mediated"
+    },
+    {
+      "prefix": "dev.flutter.",
+      "tag": "sdk_mediated"
+    }
+  ],
+  "third_party_library_prefixes": [
+    "okhttp3.",
+    "okio.",
+    "retrofit2.",
+    "com.bumptech.glide.",
+    "com.facebook.react.",
+    "com.swmansion.",
+    "com.reactnativecommunity.",
+    "com.learnium.",
+    "app.notifee.",
+    "com.baseflow.",
+    "com.getcapacitor.",
+    "io.flutter.",
+    "dev.flutter.",
+    "expo.",
+    "org.unimodules.",
+    "com.google.firebase.",
+    "com.google.android.gms.",
+    "com.google.protobuf.",
+    "io.reactivex.",
+    "io.netty.",
+    "org.bouncycastle.",
+    "com.squareup.okhttp3.",
+    "com.squareup.okio."
+  ]
+}

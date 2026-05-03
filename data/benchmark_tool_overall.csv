@@ -1,0 +1,6 @@
+tool,benchmark_mean_coverage_pct,benchmark_median_coverage_pct,benchmark_num_rows,benchmark_perfect_count
+ANDROGUARD,100.0,100.0,115,115
+FLOWDROID,73.58,77.78,115,6
+MAMADROID,73.27,77.78,114,6
+NATIDROID,98.21,100.0,115,101
+GATOR,98.21,100.0,115,101

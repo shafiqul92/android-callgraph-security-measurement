@@ -1,0 +1,27 @@
+{
+  "canonical_source": "/home/shafiqul/RESEARCH/droidbench_dynamic_analysis/dynamic_summary.csv",
+  "category_counts": {
+    "Aliasing": 5,
+    "AndroidSpecific": 60,
+    "ArraysAndLists": 35,
+    "Callbacks": 75,
+    "EmulatorDetection": 15,
+    "FieldAndObjectSensitivity": 35,
+    "GeneralJava": 115,
+    "ImplicitFlows": 20,
+    "InterAppCommunication": 10,
+    "InterComponentCommunication": 90,
+    "Lifecycle": 75,
+    "Reflection": 20,
+    "Threading": 25
+  },
+  "rows": 580,
+  "tool_counts": {
+    "Androguard": 116,
+    "FlowDroid": 116,
+    "GATOR": 116,
+    "MAMADROID": 116,
+    "NATIDROID": 116
+  },
+  "unique_benchmarks": 116
+}

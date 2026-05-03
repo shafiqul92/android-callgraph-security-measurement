@@ -1,0 +1,9 @@
+proxy,variant,benchmark_winner_tool,benchmark_winner_benchmark_rank,benchmark_winner_realapp_proxy_cov_pct,realapp_proxy_winner_tool,realapp_proxy_winner_realapp_proxy_cov_pct,delta_benchmark_winner_minus_best_pct,dynamic_count_all
+privacy,security_all,ANDROGUARD,1,72.21,GATOR,89.66,-17.45,7666
+malware_evasion,security_all,ANDROGUARD,1,73.44,GATOR,86.84,-13.4,39617
+privacy,security_nonlib,ANDROGUARD,1,24.0,GATOR,76.0,-52.0,50
+malware_evasion,security_nonlib,ANDROGUARD,1,86.22,ANDROGUARD,86.22,0.0,3555
+privacy,security_nonlib_nonobf_strict,ANDROGUARD,1,28.57,GATOR,73.81,-45.24,42
+malware_evasion,security_nonlib_nonobf_strict,ANDROGUARD,1,84.72,ANDROGUARD,84.72,0.0,2664
+privacy,security_nonobf_strict,ANDROGUARD,1,72.0,GATOR,86.7,-14.7,4782
+malware_evasion,security_nonobf_strict,ANDROGUARD,1,72.37,GATOR,82.7,-10.33,21314

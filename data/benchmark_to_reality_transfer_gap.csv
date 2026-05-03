@@ -1,0 +1,6 @@
+tool,benchmark_mean_coverage_pct,benchmark_median_coverage_pct,benchmark_num_rows,benchmark_perfect_count,realapp_security_method_full_cov_pct,realapp_security_entry_full_cov_pct,benchmark_rank,realapp_security_method_rank,realapp_security_entry_rank,method_rank_shift,entry_rank_shift
+ANDROGUARD,100.0,100.0,115,115,73.49,76.53,1,2,1,1,0
+FLOWDROID,73.58,77.78,115,6,33.47,0.06,4,4,4,0,0
+MAMADROID,73.27,77.78,114,6,33.32,0.06,5,5,5,0,0
+NATIDROID,98.21,100.0,115,101,62.12,23.02,3,3,3,0,0
+GATOR,98.21,100.0,115,101,85.67,24.83,2,1,2,-1,0

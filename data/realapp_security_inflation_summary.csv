@@ -1,0 +1,6 @@
+tool,static_total_methods,dynamic_total_methods,dynamic_security_methods,matched_dynamic_security_methods,inflation_ratio_total,security_hit_ratio
+ANDROGUARD,18203616,1178176,51125,37574,15.451,0.735
+FLOWDROID,2108455,1178176,51125,17111,1.79,0.335
+MAMADROID,2108913,1178176,51125,17033,1.79,0.333
+NATIDROID,5943863,1178176,51125,31757,5.045,0.621
+GATOR,8986331,1178176,51125,43799,7.627,0.857

@@ -10,3 +10,16 @@ venv/
 
 # OS
 .DS_Store
+
+*.apk
+*.xapk
+*.log
+*.gml
+
+.venv/
+__pycache__/
+target/
+
+data/method_views/
+data/corpus_from_graphs/
+ANALYSIS/DYNAMIC_ANALYSIS/TOOL/AndroLog/work_androlog/
